@@ -1,0 +1,270 @@
+
+--- Year 2016 ---
+South West Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Ampati	1	0.2	33.6	34.4	256.8	307.6	242.8	48.6	110.2	0	0	0	1035.2	0
+
+South West Khasi Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Mawkyrwat	27.2	2.2	45.4	352.8	505.6	664.4	2570.7	142.4	670.4	0	0	0	4981.1	0
+
+East Jaintia Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Khliehriat	0	0	0	15.4	2221.4	3.6	2.4	2173.6	0	0	0	0	4416.4	0
+
+North Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Resubelpara	0.3	0.1	28.2	8.1	12.7	6.1	15.4	6.6	4.1	0	0	0	81.6	0
+
+South Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Baghmara	15	0	154.2	168.4	382.6	354.2	950.2	148.2	383.6	0	0	0	2556.4	0
+
+West Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Tura	21.2	0	213.6	207.4	413.4	431	642.2	190.2	297.2	0	0	0	2416.2	0
+
+East Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Williamnagar	12.6	0	169.95	217.42	513.36	114.89	1015.8	59	236.8	0	0	0	2339.82	0
+
+West Jaintia Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Jowai	28	9.6	46.2	94.4	320.9	353.6	7889.6	87.2	272	0	0	0	9101.5	0
+
+West Khasi Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Nongstoin	22.6	14.6	67	172.2	314.4	310.9	1417.22	184.6	0	0	0	0	2503.52	0
+
+East Khasi Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Shillong	49.4	60.5	284.14	4142.8	3115.1	2949.2	9866.5	715.52	943.8	0	0	0	22126.96	0
+
+Ri Bhoi District
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Nongpoh	29.66	0.8	66.4	76	43.2	3	33.4	11.8	0	0	0	0	264.26	0
+
+--- Year 2014 ---
+South West Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Ampati	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+South West Khasi Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Mawkyrwat	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+East Jaintia Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Khliehriat	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+North Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Resubelpara	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+South Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Baghmara	0	13.6	0	61	0	470	303.5	304.4	857.09	13	0	1.4	2023.99	0
+
+West Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Tura	0	0	20.6	115.4	337.4	756.6	307.4	610	645	37.4	0	0	2829.8	0
+
+East Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Williamnagar	0	0	0	0	0	0	0	0	1103.6	37.2	0.8	0	1141.6	0
+
+West Jaintia Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Jowai	0	28	92	66.2	614.5	519.6	922	1609	0	0	0	0	3851.3	0
+
+West Khasi Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Nongstoin	0	34.1	60.3	75.2	303.3	392	497.2	0	0	0	0	0	1362.1	0
+
+East Khasi Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Shillong	0.2	15.5	81.2	43.1	232.7	611.6	2715	0	1613.8	78.07	5.4	16	5412.57	0
+
+Ri Bhoi District
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Nongpoh	0	0	0	0	0	0	0	0	256.6	77.4	0	8	342	0
+
+--- Year 2013 ---
+South Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Baghmara	0	5.6	0	73.2	186.4	186.4	215.2	385.2	203	68	0	0	1323	122
+
+West Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Sangsanggre Tura	0	13.4	24.8	213.8	505.2	0	257.2	549.6	394.6	234.2	3	0	2195.8	111
+
+East Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Williamnagar	0	0	1.55	176.8	619.5	473.4	444	0	0	0	0	0	1715.25	71
+
+West Jaintia Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Rymphum Seed Farm	0	0	18	91.2	553.4	672.6	438	376	260.4	197.8	0	0	2608.1	164
+
+West Khasi Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Nongstoin	0	20	24.1	190.4	457.6	377.5	272.7	571.6	407.5	86.3	0	0	2407.7	146
+Mairang	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Riangdo	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+East Khasi Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Vegetable Research Shillong	0	34.9	12.8	120.6	251.6	394.8	132	320.3	257.3	86	0	0.2	1610.5	148
+Upper Shillong	0	11.2	30	71	19.06	160	298.4	81.4	155	53	0	0	879.06	99
+Sohra	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Ri Bhoi District
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Nongpoh	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Patharkhmah	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Umsning	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Byrnihat	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+--- Year 2012 ---
+South Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Baghmara	2.2	0	5.4	154.8	111.6	366.6	477.6	329.2	188.4	181.2	4	0	1821	138
+
+West Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Sangsanggre Tura	16.6	0	0	181.8	231.8	861.6	612.2	399.3	475.4	155.8	0	0	2934.5	123
+
+East Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Williamnagar	11.55	0	0	0	0	0	0	0	0	0	0	0	11.55	3
+
+West Jaintia Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Rymphum Seed Farm	6	6	1.5	33	74	824.5	1759	346	200	347.2	0	0	3597.2	107
+
+West Khasi Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Nongstoin	27.1	0	5.1	173.3	295.7	723.6	766.8	613.7	702.9	167.2	5.4	0	3480.8	139
+Mairang	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Riangdo	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+East Khasi Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Upper Shillong	10.5	0	0	0	0	0	0	155	21.5	51.9	2.1	0	241	46
+Sohra	19	0	175.2	1223	0	0	0	0	0	0	0	0	1417.2	0
+Vegetable Research Shillong	18.7	0	2.7	136.2	291.3	368.9	368.1	433	307	166.1	10.5	0	2102.8	137
+
+Ri Bhoi District
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Nongpoh	25.15	0	0	63.26	126.73	378.47	466.59	543.76	42.64	114.05	0	0	1761	116
+Patharkhmah	0	0	0	0	143.01	473.21	0	0	0	0	0	0	726.01	40
+Umsning	19.5	0	15	163	0	0	0	0	0	0	0	0	213.5	27
+Byrnihat	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+--- Year 2010 ---
+South Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Baghmara	0	0	22.2	213.26	0	427.7	406	0	202.2	91.6	0.6	6.8	1370.36	96
+
+West Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Sangsanggiri Tura	0	0	19.2	280.4	691.6	808	459.2	0	240.9	152	5.4	5.4	2662.1	110
+
+East Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Williamnagar	0	0	102.3	463.5	493	756.9	641.6	366.1	0	176.9	6.4	7.8	3014.5	95
+
+West Jaintia Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Rymphum Seed Farm	0	0	39.5	256.26	451.5	712.8	440	441.5	205	1382.5	4	10	3943.06	169
+
+West Khasi Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Nongstoin	0	0	101.1	337.6	339.6	806.7	485.7	711.4	235.9	260.1	30.1	8	3316.2	149
+Mairang	0	0	0	0	0	0	18	410	463	274.5	20	0	1185.5	68
+Riangdo	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+East Khasi Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Vegetable Research Shillong	0	0	39.1	84.4	208.7	599.8	206	399	178.8	277.7	0	0	1993.5	146
+Upper Shillong	0	0	6.11	64.7	128.3	256.7	144.7	211.4	122.5	0	17	5.4	956.81	113
+Sohra	0.2	1	808	2734.5	1337.8	0	0	0	0	0	0	0	4881.5	0
+
+Ri Bhoi District
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Nongpoh	0	0	0	0	0	0	260.11	465.04	213.81	203.6	11.18	2.03	1155.77	82
+Patharkhmah	0	0	0	0	0	0	407	501.9	0	0	0	0	908.9	55
+Umsning	0	0	33	89	210	652	435	489	412	312	63	0	2695	151
+Byrnihat	0	0	60	343.73	217.9	421.2	358.5	346.86	191.4	96.2	0	2	2037.79	108
+
+--- Year 2008 ---
+South Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Baghmara	11.8	10.2	35.8	112.2	245.7	531.3	434.9	478.6	333.6	128.2	0	0	2322.3	142
+
+West Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Sangsanggiri Tura	44.2	3	864	241.2	521.6	914.8	951.07	405.8	318.4	165.2	0	0	4429.27	153
+
+East Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Williamnagar	0	11.01	141.15	254.21	286.39	652.44	791.54	618.45	249.19	242.14	0	0	3246.52	136
+
+West Jaintia Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Rymphum Seed Farm	26.5	16.5	46.5	51.5	218	1434	568	896.52	1288.5	285	0	0	4831.02	157
+
+West Khasi Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Nongstoin	42	12	159	104.4	189.2	598.2	1020.4	733.6	320.1	130	0	0	3308.9	148
+Mairang	0	0	0	0	0	0	44.5	224	32	0	0	0	300.5	68
+Riangdo	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+East Khasi Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Vegetable Research Shillong	59.5	0	76.8	62.8	399.3	357.7	157.5	181.5	214.5	330	2.9	14.2	1856.7	160
+Upper Shillong	59.5	3.5	30.1	27.5	100.8	212.1	222.3	207.3	191.3	229.8	0	0	1284.2	131
+Sohra	40	54	21.6	0	0	0	0	0	0	0	0	0	115.6	18
+
+Ri Bhoi District
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Nongpoh	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Patharkhmah	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Umsning	0	4	73	41	256	346	337	387	321	284	0	30	2079	119
+Byrnihat	26.4	4.6	139.5	110.7	136.6	258	254.91	221.1	152.8	114.6	0	0	1419.21	106
+
+--- Year 2006 ---
+South Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Baghmara	0	0	7.8	91.2	404.2	346.8	456	289	226.8	88.4	0	9.2	1919.4	134
+
+West Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Sangsanggiri Tura	0	26.8	12.2	204.8	708.2	442.8	463.8	246.5	318.4	189.8	0	15.4	2628.7	129
+
+East Garo Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Williamnagar	0	3.01	13.1	201.06	488.91	408.38	321.6	244.36	344.34	60.1	16	0	2100.86	123
+
+West Jaintia Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Rymphum Seed Farm	0	10.6	89	152.6	756.4	534	485.4	243	344.6	229	43	15.6	2903.2	167
+
+West Khasi Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Nongstoin	0	20	14	303.4	695.3	277.2	417.5	239.4	287.2	68.6	19	24	2365.6	132
+Mairang	0	0	11	148.5	478.7	0	63	140	89	77.5	0	0	1007.7	63
+Riangdo	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+East Khasi Hills
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Vegetable Research Shillong	0	5.2	4.8	127.1	451.1	256.6	154.6	162.5	318	163.5	39.2	4.7	1687.3	136
+Upper Shillong	0	20	6	8.32	170	194.2	11.06	274	144.02	11	15	3	856.6	107
+Sohra	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Ri Bhoi District
+Stations	Jan	Feb	March	April	May	June	July	Aug	Sep	Oct	Nov	Dec	Total	Rainy Days
+Nongpoh	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Patharkhmah	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Umsning	0	0	0	107	392	346	362	276	313	339.05	9	0	2144.05	112
+Byrnihat	0	1	7	180.2	163	189.4	174.6	169.2	256.8	153.1	34.8	5	1334.1	99
