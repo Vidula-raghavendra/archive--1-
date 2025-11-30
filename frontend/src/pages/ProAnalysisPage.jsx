@@ -40,14 +40,19 @@ const ProAnalysisPage = ({ language, setLanguage }) => {
     };
 
     return (
-        <div className="app-container pro-theme">
-            {/* Gold/Dark Background Elements */}
-            <div className="pro-bg-gradient"></div>
+        <div className="app-container editorial-theme">
+            {/* Background Grid Lines */}
+            <div className="grid-lines fixed">
+                <div className="line"></div>
+                <div className="line"></div>
+                <div className="line"></div>
+                <div className="line"></div>
+            </div>
 
-            <header className="app-header pro-header">
+            <header className="app-header editorial-header">
                 <div className="brand" onClick={() => navigate('/')} style={{ cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '1rem' }}>
-                    <Award size={32} className="pro-icon-brand" />
-                    <h1 className="pro-brand-title">Krishi Pro</h1>
+                    <Sprout size={32} color="#1A3C34" />
+                    <h1 style={{ color: '#1A3C34', margin: 0, fontSize: '1.5rem' }}>{t.brand}</h1>
                 </div>
                 <button className="editorial-btn-small pro-back-btn" onClick={() => navigate(-1)}>
                     <ArrowLeft size={16} /> {t.back}
@@ -64,14 +69,16 @@ const ProAnalysisPage = ({ language, setLanguage }) => {
 
                     {/* 1. Market Intelligence Card */}
                     <motion.div
-                        className="pro-card market-card"
+                        className="editorial-card pro-card market-card"
                         initial={{ opacity: 0, y: 20 }}
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ delay: 0.1 }}
                     >
-                        <div className="pro-card-header">
-                            <TrendingUp size={24} color="#4ade80" />
-                            <h3>{t.market_intelligence}</h3>
+                        <div className="pro-card-header" style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1rem' }}>
+                            <div className="icon-bg" style={{ background: '#dcfce7', padding: '8px', borderRadius: '50%' }}>
+                                <TrendingUp size={24} color="#166534" />
+                            </div>
+                            <h3 style={{ margin: 0, color: '#1A3C34' }}>{t.market_intelligence}</h3>
                         </div>
                         <p className="pro-card-desc">Real-time prices from nearby mandis to help you sell at the best rate.</p>
                         <div className="market-content">
@@ -103,14 +110,16 @@ const ProAnalysisPage = ({ language, setLanguage }) => {
 
                     {/* 2. Soil Health Card */}
                     <motion.div
-                        className="pro-card soil-card"
+                        className="editorial-card pro-card soil-card"
                         initial={{ opacity: 0, y: 20 }}
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ delay: 0.2 }}
                     >
-                        <div className="pro-card-header">
-                            <Sprout size={24} color="#a3e635" />
-                            <h3>{t.soil_health}</h3>
+                        <div className="pro-card-header" style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1rem' }}>
+                            <div className="icon-bg" style={{ background: '#fef9c3', padding: '8px', borderRadius: '50%' }}>
+                                <Sprout size={24} color="#854d0e" />
+                            </div>
+                            <h3 style={{ margin: 0, color: '#1A3C34' }}>{t.soil_health}</h3>
                         </div>
                         <p className="pro-card-desc">Nutrient analysis based on your soil type and crop history.</p>
                         <div className="soil-grid">
@@ -139,14 +148,16 @@ const ProAnalysisPage = ({ language, setLanguage }) => {
 
                     {/* 3. Crop Doctor / Pest Forecast */}
                     <motion.div
-                        className="pro-card pest-card"
+                        className="editorial-card pro-card pest-card"
                         initial={{ opacity: 0, y: 20 }}
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ delay: 0.3 }}
                     >
-                        <div className="pro-card-header">
-                            <Bug size={24} color="#f87171" />
-                            <h3>{t.pest_forecast}</h3>
+                        <div className="pro-card-header" style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1rem' }}>
+                            <div className="icon-bg" style={{ background: '#fee2e2', padding: '8px', borderRadius: '50%' }}>
+                                <Bug size={24} color="#991b1b" />
+                            </div>
+                            <h3 style={{ margin: 0, color: '#1A3C34' }}>{t.pest_forecast}</h3>
                         </div>
                         <p className="pro-card-desc">AI-predicted pest risks based on weather patterns.</p>
                         <div className="pest-timeline">
@@ -169,14 +180,16 @@ const ProAnalysisPage = ({ language, setLanguage }) => {
 
                     {/* 4. Smart Calendar */}
                     <motion.div
-                        className="pro-card calendar-card"
+                        className="editorial-card pro-card calendar-card"
                         initial={{ opacity: 0, y: 20 }}
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ delay: 0.4 }}
                     >
-                        <div className="pro-card-header">
-                            <Calendar size={24} color="#60a5fa" />
-                            <h3>{t.smart_calendar}</h3>
+                        <div className="pro-card-header" style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1rem' }}>
+                            <div className="icon-bg" style={{ background: '#dbeafe', padding: '8px', borderRadius: '50%' }}>
+                                <Calendar size={24} color="#1e40af" />
+                            </div>
+                            <h3 style={{ margin: 0, color: '#1A3C34' }}>{t.smart_calendar}</h3>
                         </div>
                         <p className="pro-card-desc">Optimized schedule for farming activities to maximize yield.</p>
                         <div className="calendar-list">

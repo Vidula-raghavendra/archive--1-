@@ -1279,6 +1279,202 @@ body {
         font-size: 1.5rem;
     }
 
+
+}
+
+.progress-bar {
+    height: 8px;
+    background: rgba(26, 60, 52, 0.1);
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.progress-bar .fill {
+    height: 100%;
+    border-radius: 4px;
+}
+
+.fill.low {
+    background: #ef4444;
+}
+
+.fill.optimal {
+    background: #15803d;
+}
+
+.fill.medium {
+    background: #eab308;
+}
+
+.status {
+    font-size: 0.8rem;
+    text-align: right;
+}
+
+.status.warning {
+    color: #ef4444;
+}
+
+.status.good {
+    color: #15803d;
+}
+
+.status.ok {
+    color: #ca8a04;
+}
+
+.ph-item .ph-value {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--editorial-text);
+    text-align: center;
+}
+
+/* Pest Timeline */
+.pest-timeline {
+    position: relative;
+    padding-left: 1.5rem;
+    border-left: 2px solid rgba(26, 60, 52, 0.1);
+}
+
+.timeline-item {
+    position: relative;
+    margin-bottom: 2rem;
+}
+
+.timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -1.95rem;
+    top: 0.2rem;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--editorial-bg);
+    border: 2px solid var(--editorial-text);
+}
+
+.timeline-item.warning::before {
+    border-color: #ef4444;
+    background: #ef4444;
+}
+
+.timeline-item.info::before {
+    border-color: #0ea5e9;
+    background: #0ea5e9;
+}
+
+.timeline-item .date {
+    font-size: 0.8rem;
+    color: var(--editorial-text);
+    opacity: 0.6;
+    margin-bottom: 0.3rem;
+}
+
+.timeline-item h4 {
+    color: var(--editorial-text);
+    font-size: 1rem;
+    margin-bottom: 0.3rem;
+}
+
+.timeline-item p {
+    color: var(--editorial-text);
+    opacity: 0.8;
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+
+/* Calendar */
+.calendar-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.cal-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.8rem;
+    background: rgba(255, 255, 255, 0.4);
+    border-radius: 8px;
+    font-size: 0.95rem;
+    color: var(--editorial-text);
+}
+
+.cal-item.done {
+    color: var(--editorial-text);
+    opacity: 0.5;
+    text-decoration: line-through;
+}
+
+.cal-item.active {
+    background: rgba(26, 60, 52, 0.05);
+    border: 1px solid var(--editorial-text);
+    color: var(--editorial-text);
+    font-weight: 600;
+}
+
+.cal-item .circle {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 2px solid currentColor;
+}
+
+.pro-card-desc {
+    font-size: 0.9rem;
+    color: var(--editorial-text);
+    opacity: 0.8;
+    margin-bottom: 1.5rem;
+    font-style: italic;
+    line-height: 1.4;
+}
+
+.pro-sub-desc {
+    font-size: 0.8rem;
+    color: var(--editorial-text);
+    opacity: 0.7;
+    margin-bottom: 1rem;
+    margin-top: -0.5rem;
+}
+
+/* --- Mobile Responsiveness for Pro Page --- */
+@media (max-width: 768px) {
+    .pro-dashboard-grid {
+        grid-template-columns: 1fr;
+        /* Stack cards vertically */
+        gap: 1.5rem;
+    }
+
+    .pro-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+
+    .pro-header .brand {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .pro-back-btn {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .pro-title h2 {
+        font-size: 1.5rem;
+    }
+
+    .pro-card {
+        padding: 1rem;
+    }
+
+    .market-content .value {
+        font-size: 1.5rem;
+    }
+
     .forecast-bars {
         height: 80px;
     }
@@ -1286,4 +1482,341 @@ body {
     .bar-group .month {
         font-size: 0.7rem;
     }
+}
+
+.editorial-btn-small {
+    background: var(--editorial-accent);
+    color: var(--editorial-text);
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 50px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.fill.medium {
+    background: #eab308;
+}
+
+.status {
+    font-size: 0.8rem;
+    text-align: right;
+}
+
+.status.warning {
+    color: #ef4444;
+}
+
+.status.good {
+    color: #15803d;
+}
+
+.status.ok {
+    color: #ca8a04;
+}
+
+.ph-item .ph-value {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--editorial-text);
+    text-align: center;
+}
+
+/* Pest Timeline */
+.pest-timeline {
+    position: relative;
+    padding-left: 1.5rem;
+    border-left: 2px solid rgba(26, 60, 52, 0.1);
+}
+
+.timeline-item {
+    position: relative;
+    margin-bottom: 2rem;
+}
+
+.timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -1.95rem;
+    top: 0.2rem;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--editorial-bg);
+    border: 2px solid var(--editorial-text);
+}
+
+.timeline-item.warning::before {
+    border-color: #ef4444;
+    background: #ef4444;
+}
+
+.timeline-item.info::before {
+    border-color: #0ea5e9;
+    background: #0ea5e9;
+}
+
+.timeline-item .date {
+    font-size: 0.8rem;
+    color: var(--editorial-text);
+    opacity: 0.6;
+    margin-bottom: 0.3rem;
+}
+
+.timeline-item h4 {
+    color: var(--editorial-text);
+    font-size: 1rem;
+    margin-bottom: 0.3rem;
+}
+
+.timeline-item p {
+    color: var(--editorial-text);
+    opacity: 0.8;
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+
+/* Calendar */
+.calendar-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.cal-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.8rem;
+    background: rgba(255, 255, 255, 0.4);
+    border-radius: 8px;
+    font-size: 0.95rem;
+    color: var(--editorial-text);
+}
+
+.cal-item.done {
+    color: var(--editorial-text);
+    opacity: 0.5;
+    text-decoration: line-through;
+}
+
+.cal-item.active {
+    background: rgba(26, 60, 52, 0.05);
+    border: 1px solid var(--editorial-text);
+    color: var(--editorial-text);
+    font-weight: 600;
+}
+
+.cal-item .circle {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 2px solid currentColor;
+}
+
+.pro-card-desc {
+    font-size: 0.9rem;
+    color: var(--editorial-text);
+    opacity: 0.8;
+    margin-bottom: 1.5rem;
+    font-style: italic;
+    line-height: 1.4;
+}
+
+.pro-sub-desc {
+    font-size: 0.8rem;
+    color: var(--editorial-text);
+    opacity: 0.7;
+    margin-bottom: 1rem;
+    margin-top: -0.5rem;
+}
+
+/* --- Mobile Responsiveness for Pro Page --- */
+@media (max-width: 768px) {
+    .pro-dashboard-grid {
+        grid-template-columns: 1fr;
+        /* Stack cards vertically */
+        gap: 1.5rem;
+    }
+
+    .pro-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+
+    .pro-header .brand {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .pro-back-btn {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .pro-title h2 {
+        font-size: 1.5rem;
+    }
+
+    .pro-card {
+        padding: 1rem;
+    }
+
+    .market-content .value {
+        font-size: 1.5rem;
+    }
+
+    .forecast-bars {
+        height: 80px;
+    }
+
+    .bar-group .month {
+        font-size: 0.7rem;
+    }
+}
+
+.editorial-btn-small {
+    background: var(--editorial-accent);
+    color: var(--editorial-text);
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 50px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    padding: 2rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.02);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* Pro Card Specifics override */
+.pro-card.editorial-card {
+    /* Reset specific pro-card styles if they conflict */
+    background: white;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    text-align: left;
+    align-items: stretch;
+}
+
+.pro-card-header h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.pro-card-desc {
+    font-size: 0.95rem;
+    color: var(--editorial-text);
+    opacity: 0.7;
+    margin-bottom: 1.5rem;
+    line-height: 1.5;
+    font-style: normal;
+}
+
+.pro-sub-desc {
+    font-size: 0.85rem;
+    color: var(--editorial-text);
+    opacity: 0.6;
+    margin-bottom: 1rem;
+}
+
+/* Market Card Refinements */
+.market-content .current-price .label {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #888;
+    font-weight: 700;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.market-content .value {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.5rem;
+    color: var(--editorial-text);
+    font-weight: 700;
+    line-height: 1;
+}
+
+.market-content .unit {
+    font-size: 1rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    opacity: 0.6;
+}
+
+.best-market {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.best-market .label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #888;
+    font-weight: 700;
+    display: block;
+    margin-bottom: 0.25rem;
+}
+
+.best-market .value {
+    font-size: 1.1rem;
+    font-weight: 600;
+    font-family: 'Lato', sans-serif;
+}
+
+.best-market .distance {
+    font-size: 0.9rem;
+    color: var(--editorial-text);
+    opacity: 0.6;
+    margin-left: 0.5rem;
+}
+
+/* Soil Card Refinements */
+.soil-item .label {
+    font-weight: 600;
+    color: var(--editorial-text);
+    opacity: 0.8;
+}
+
+.soil-item .status {
+    font-weight: 600;
+    font-size: 0.85rem;
+}
+
+/* Pest Timeline Refinements */
+.timeline-item h4 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--editorial-text);
+}
+
+/* Calendar Refinements */
+.cal-item {
+    background: rgba(0, 0, 0, 0.02);
+    border: none;
+    padding: 1rem;
+}
+
+.cal-item.active {
+    background: white;
+    border: 1px solid var(--editorial-accent);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.03);
+}
+
+.cal-item span {
+    font-weight: 500;
 }
